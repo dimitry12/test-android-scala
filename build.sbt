@@ -1,1 +1,1 @@
-androidBuild
+enablePlugins(AndroidApp)
